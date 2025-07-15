@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.hacking.tools/sitemap.xml
+
+# Block access to sensitive files
+Disallow: /api/
+Disallow: /_next/
+Disallow: /out/
+Disallow: /node_modules/
+
+# Allow crawling of important pages
+Allow: /
+Allow: /privacy-policy
+Allow: /terms-of-service
+Allow: /contact
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Host directive
+Host: https://www.hacking.tools

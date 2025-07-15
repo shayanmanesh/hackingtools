@@ -1,0 +1,24 @@
+{
+  "name": "Hacking.Tools - Digital Security Resources",
+  "short_name": "Hacking.Tools",
+  "description": "Your premier destination for ethical hacking tools, cybersecurity resources, and digital security education.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["security", "tools", "education", "technology"],
+  "lang": "en-US"
+}
