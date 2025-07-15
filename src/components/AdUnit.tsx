@@ -89,7 +89,7 @@ const AdUnit: React.FC<AdUnitProps> = ({
             width: '100%',
             height: '100%'
           }}
-          data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" // Replace with your AdSense client ID
+          data-ad-client="ca-pub-5635114711353420"
           data-ad-slot={adSlot}
           data-ad-format="auto"
           data-full-width-responsive="true"

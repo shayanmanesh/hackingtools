@@ -19,7 +19,7 @@ export default function Home() {
       {/* Header Ad */}
       <div className="w-full py-4 bg-gray-900/50 backdrop-blur-sm">
         <AdUnit 
-          adSlot="1234567890" 
+          adSlot="3137758017" 
           adFormat="horizontal"
           className="mx-auto"
         />
@@ -46,7 +46,7 @@ export default function Home() {
           {/* Content Rectangle Ad */}
           <div className="mb-12 flex justify-center">
             <AdUnit 
-              adSlot="2345678901" 
+              adSlot="4431777949" 
               adFormat="rectangle"
             />
           </div>
@@ -112,7 +112,7 @@ export default function Home() {
           {/* Bottom Ad */}
           <div className="mb-8">
             <AdUnit 
-              adSlot="3456789012" 
+              adSlot="3637571023" 
               adFormat="horizontal"
               className="mx-auto"
             />
@@ -135,7 +135,7 @@ export default function Home() {
       {/* Mobile Sticky Footer Ad */}
       <div className="fixed bottom-0 left-0 right-0 bg-gray-900/95 backdrop-blur-sm border-t border-gray-700 py-2 md:hidden">
         <AdUnit 
-          adSlot="4567890123" 
+          adSlot="2324489353" 
           adFormat="mobile-banner"
           className="mx-auto"
         />

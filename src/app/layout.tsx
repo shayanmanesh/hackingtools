@@ -69,9 +69,10 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
         <script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5635114711353420"
           crossOrigin="anonymous"
         />
+        <meta name="google-adsense-account" content="ca-pub-5635114711353420" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
